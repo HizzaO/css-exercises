@@ -1,12 +1,12 @@
 /* Add CSS Styling */
 
 .odd-numbered {
-    background-color: rgb (255,130,200); font-family: "Verdana", "DejaVu Sans", sans-serif ;
+    background-color: rgb(255,130,200); font-family: "Verdana", "DejaVu Sans", sans-serif ;
 }
 
 #number2 {
     font-size: 36px;
-    color: rbg (0, 100, 255)
+    color: rgb(0,100,255);
 }
 
 .size24 {
